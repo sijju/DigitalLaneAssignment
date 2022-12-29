@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+
+
+
+.item{
+  display: flex;
+  gap:20px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.dis{
+  background-color: red;
+  width: 100%;
+  outline: none;
+}
+.add{
+  background-color: darkolivegreen;
+  width:100%;
+}
